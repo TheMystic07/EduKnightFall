@@ -3,7 +3,6 @@
 **Knight Fall** is a 3D multiplayer obstacle course game inspired by *Fall Guys*, built on the **EDU Blockchain**. Compete in chaotic rounds, flex your NFT skins, and win $EDU in a play-to-earn experience made for the Web3 era.
 
 🔗 **Play Now:** [edu-knight-fall.vercel.app](https://edu-knight-fall.vercel.app)  
-🔗 **Smart Contract Address:** `234ru839wh834f39f2h34hf34`
 
 ---
 
@@ -51,16 +50,6 @@ With seamless wallet login, on-chain rewards, and customizable NFT skins, Knight
 
 ---
 
-## 🧠 Why EDU Blockchain?
-
-| Benefit | Description |
-|---------|-------------|
-| 💡 **Fast & Low-Cost** | No high gas fees—just smooth, instant gameplay |
-| 🔐 **Decentralized & Secure** | Full asset ownership—skins, scores, items |
-| 📈 **Scalable** | Built to handle thousands of concurrent players |
-
----
-
 ## 🛡 Join the Knight Fall Revolution
 
 Knight Fall isn’t just a game—it’s a decentralized movement. Whether you’re a casual gamer, NFT collector, or a hardcore Web3 degen, this is **your arena**.
@@ -71,8 +60,7 @@ Knight Fall isn’t just a game—it’s a decentralized movement. Whether you�
 
 ### 📬 Connect With Us
 
-- 💬 Discord (Coming soon)  
-- 📰 Twitter (Coming soon)  
+- 📰 Twitter: [x.com/KnightFall_EDU](x.com/KnightFall_EDU)
 - 🌐 Official Site: [edu-knight-fall.vercel.app](https://edu-knight-fall.vercel.app)
 
 ---
